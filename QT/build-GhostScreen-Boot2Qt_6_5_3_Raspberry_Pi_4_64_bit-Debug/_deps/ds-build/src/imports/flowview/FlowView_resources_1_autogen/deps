@@ -1,0 +1,6 @@
+FlowView_resources_1_autogen/timestamp: \
+	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-src/src/imports/flowview/CMakeLists.txt \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/bin/cmake

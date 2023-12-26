@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/GhostScreen/">
+    <file alias="Constants.qml">/home/kegmulayim/Documents/GitHub/GhostScreen/QT/GhostScreen/imports/GhostScreen/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/kegmulayim/Documents/GitHub/GhostScreen/QT/GhostScreen/imports/GhostScreen/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/kegmulayim/Documents/GitHub/GhostScreen/QT/GhostScreen/imports/GhostScreen/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/kegmulayim/Documents/GitHub/GhostScreen/QT/GhostScreen/imports/GhostScreen/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

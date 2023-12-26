@@ -1,0 +1,15 @@
+-rootPath
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/GhostScreen
+-cmake-output
+-output-file
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_GhostScreenApp.cmake
+-importPath
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/qml/Main
+-importPath
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/qml
+-importPath
+/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/qml
+-qrcFiles
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/.rcc/configuration.qrc
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/.rcc/qmake_Main.qrc
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/.rcc/GhostScreenApp_raw_qml_0.qrc

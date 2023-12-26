@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QtQuick/Studio/Application">
+    <file alias="qmldir">/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/qml/QtQuick/Studio/Application/qmldir</file>
+  </qresource>
+</RCC>
+

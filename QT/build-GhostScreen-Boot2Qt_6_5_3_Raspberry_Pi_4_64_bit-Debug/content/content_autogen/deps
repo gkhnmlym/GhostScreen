@@ -1,0 +1,7 @@
+content_autogen/timestamp: \
+	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/GhostScreen/content/CMakeLists.txt \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/home/kegmulayim/Qt/6.5.3/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/bin/cmake

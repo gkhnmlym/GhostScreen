@@ -1,0 +1,14 @@
+# Target labels
+ ds-populate
+# Source files and their labels
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule

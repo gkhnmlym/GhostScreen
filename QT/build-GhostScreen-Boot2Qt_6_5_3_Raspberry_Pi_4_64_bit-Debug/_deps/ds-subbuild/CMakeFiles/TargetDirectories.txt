@@ -1,0 +1,3 @@
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

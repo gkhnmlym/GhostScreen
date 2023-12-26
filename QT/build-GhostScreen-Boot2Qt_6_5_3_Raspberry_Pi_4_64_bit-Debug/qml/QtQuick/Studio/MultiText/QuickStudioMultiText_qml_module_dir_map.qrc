@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QtQuick/Studio/MultiText">/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/qml/QtQuick/Studio/MultiText</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+# ninja log v5
+1	6	1703579600223301719	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	37ab883b9247243a
+1	6	1703579600223301719	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	37ab883b9247243a
+6	1929	1703579602143286936	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	9415691fb4bcf010
+6	1929	1703579602143286936	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	9415691fb4bcf010
+1929	2325	0	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	aa9196aa1c208cc4
+1929	2325	0	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	aa9196aa1c208cc4
+2325	2330	1703579602547283831	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	f8f24a31640c93a2
+2325	2330	1703579602547283831	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	f8f24a31640c93a2
+2330	2335	1703579602551283801	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	96b6c4fec1ca0d32
+2330	2335	1703579602551283801	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	96b6c4fec1ca0d32
+2335	2340	1703579602555283769	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	cfbc0983049328b6
+2335	2340	1703579602555283769	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	cfbc0983049328b6
+2340	2344	1703579602559283738	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	79c08e1a50b3a7de
+2340	2344	1703579602559283738	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	79c08e1a50b3a7de
+2345	2349	1703579602563283708	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	517a490a88a5ca75
+2345	2349	1703579602563283708	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	517a490a88a5ca75
+2349	2356	1703579602571283647	CMakeFiles/ds-populate-complete	1c4b8f7337897195
+2349	2356	1703579602571283647	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	1c4b8f7337897195
+2349	2356	1703579602571283647	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	1c4b8f7337897195
+2349	2356	1703579602571283647	/home/kegmulayim/Documents/GitHub/GhostScreen/QT/build-GhostScreen-Boot2Qt_6_5_3_Raspberry_Pi_4_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	1c4b8f7337897195
