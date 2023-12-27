@@ -3,8 +3,8 @@ import QtQuick 6.2
 import QtQuick.Studio.Application
 
 QtObject {
-    readonly property int width: 1920
-    readonly property int height: 1080
+    readonly property int width: 800
+    readonly property int height: 600
 
     property string relativeFontDirectory: "fonts"
 
@@ -18,7 +18,7 @@ QtObject {
                                                   pixelSize: Qt.application.font.pixelSize * 1.6
                                               })
 
-    readonly property color backgroundColor: "#c2c2c2"
+    readonly property color backgroundColor: "#102330"
 
 
     property StudioApplication application: StudioApplication {
